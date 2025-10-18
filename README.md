@@ -23,7 +23,7 @@ O projeto atende 100% a todas as Especificações Técnicas Obrigatórias, utili
 * **Tipografia e Paleta:** Implementação de uma hierarquia tipográfica de 6 tamanhos de fonte e uma paleta de cores com 10 variáveis, atendendo ao requisito mínimo de 8 cores.
 * **Espaçamento Modular:** Utilização de um sistema de espaçamento baseado em módulos de 8px (variáveis `--spacing-1` a `--spacing-6`).
 
-### Leiaute e Responsividade
+### Layout e Responsividade
 
 * **CSS Grid e Flexbox:** Uso de CSS Grid (classe `.grid-12-columns`) para o leiaute principal e Flexbox para componentes internos e alinhamentos.
 * **5 Breakpoints:** Definição e aplicação de 5 *media queries* distintas em `_layout.css`, garantindo a adaptação completa a dispositivos móveis e desktops.
