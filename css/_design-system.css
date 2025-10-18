@@ -1,0 +1,37 @@
+:root {
+  /* Cores (primárias, secundárias, neutras) */
+  --primary-color: #8A2BE2; /* Roxo Vibrante - Para botões, links ativos, etc. */
+  --primary-color-dark: #6A0DAD; /* Roxo mais escuro - Para hover */
+  --secondary-color: #FF6700; /* Laranja vibrante - Para destaque (Ex: doações) */
+  --secondary-color-dark: #FF8533; /* Laranja mais claro - Para hover */
+  --neutral-100: #FFFFFF; /* Branco - Para fundo de seções e cards */
+  --neutral-200: #F8F0FF; /* Roxo bem claro - Fundo secundário, cards */
+  --neutral-300: #E6E6FA; /* Roxo suave - Fundo do body */
+  --neutral-400: #D8BFD8; /* Roxo claro - Bordas e divisores */
+  --neutral-900: #4B0082; /* Roxo escuro - Títulos e textos principais */
+  --text-color-light: #F8F0FF; /* Texto em fundo escuro */
+  
+  /* Tipografia (5 tamanhos de fonte) */
+  --font-size-xs: 0.75rem; /* 12px */
+  --font-size-sm: 0.875rem; /* 14px */
+  --font-size-base: 1rem; /* 16px */
+  --font-size-lg: 1.25rem; /* 20px */
+  --font-size-xl: 1.5rem; /* 24px */
+  --font-size-2xl: 2rem; /* 32px */
+
+  /* Sistema de Espaçamento Modular (8px, 16px, 24px, 32px, 48px, 64px) */
+  --spacing-1: 8px;
+  --spacing-2: 16px;
+  --spacing-3: 24px;
+  --spacing-4: 32px;
+  --spacing-5: 48px;
+  --spacing-6: 64px;
+
+  /* Outras variáveis */
+  --border-radius-sm: 8px;
+  --border-radius-md: 12px;
+  --box-shadow-sm: 0 2px 8px rgba(0, 0, 0, 0.05);
+  --box-shadow-md: 0 5px 15px rgba(0, 0, 0, 0.08);
+  --box-shadow-lg: 0 8px 20px rgba(0, 0, 0, 0.1);
+  --transition-speed: 0.3s ease;
+}
