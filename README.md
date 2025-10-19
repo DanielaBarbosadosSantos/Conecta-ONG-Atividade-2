@@ -25,7 +25,7 @@ O projeto atende 100% a todas as Especificações Técnicas Obrigatórias, utili
 
 ### Layout e Responsividade
 
-* **CSS Grid e Flexbox:** Uso de CSS Grid (classe `.grid-12-columns`) para o leiaute principal e Flexbox para componentes internos e alinhamentos.
+* **CSS Grid e Flexbox:** Uso de CSS Grid (classe `.grid-12-columns`) para o layout principal e Flexbox para componentes internos e alinhamentos.
 * **5 Breakpoints:** Definição e aplicação de 5 *media queries* distintas em `_layout.css`, garantindo a adaptação completa a dispositivos móveis e desktops.
 
 ### Componentes de Interface
