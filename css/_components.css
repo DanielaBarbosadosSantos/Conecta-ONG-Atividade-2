@@ -241,6 +241,7 @@ header nav ul li a.active {
 
 .tag-saude {
     background-color: #17a2b8; 
+} 
 
 .tag-meio-ambiente {
     background-color: #28a745; 
@@ -250,6 +251,13 @@ header nav ul li a.active {
     background-color: var(--neutral-900);
 }
 
+.tag-apoio-humanitario {
+    background-color: #00BFFF; 
+}
+
+.tag-direitos-humanos {
+    background-color: #8B0000; 
+}
 
 @media (max-width: 768px) {
     .hamburger-button {
